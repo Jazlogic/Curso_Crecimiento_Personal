@@ -54,13 +54,12 @@
 - [ ] Planificar el día siguiente
 
 ### 🚀 TAREAS DE DESARROLLO
-- [ ] Crear perfiles profesionales en plataformas de freelancing
-- [ ] Desarrollar estrategia de marketing digital para servicios técnicos
-- [ ] Establecer tarifas competitivas para todos los servicios
-- [ ] Crear templates de propuestas para freelancing
-- [ ] Diseñar material promocional para servicios locales
-- [ ] Establecer sistema de seguimiento de clientes
-- [ ] Preparar portafolio básico de trabajos
+- [ ] Investigar plataformas de freelancing
+- [ ] Crear lista de servicios y precios
+- [ ] Preparar contenido básico para marketing
+- [ ] Organizar carpeta de trabajo en el teléfono
+- [ ] Crear lista de contactos locales
+- [ ] Planificar tareas para la semana
 
 ### 💰 OBJETIVOS FINANCIEROS
 - [ ] Generar $1,085 (trabajo principal)
@@ -71,124 +70,59 @@
 
 ## 📚 ESTRUCTURACIÓN DEL PLAN (2.5 HORAS)
 
-### 🎯 HORA 1: ESTRATEGIA DE FREELANCING (4:00 PM - 5:00 PM)
+### 🎯 HORA 1: PLANIFICACIÓN Y INVESTIGACIÓN (4:00 PM - 5:00 PM)
 
-#### **📱 PLATAFORMAS A CONFIGURAR:**
-**1. UPWORK (Prioridad Alta):**
-- [ ] Crear perfil profesional completo
-- [ ] Subir foto profesional
-- [ ] Escribir bio en inglés: "Experienced IT Support Specialist with 2+ years in technical support. Skilled in computer repair, software installation, and system maintenance. Fluent in Spanish, learning English. Available for remote and local technical support services."
-- [ ] Agregar habilidades: Computer Repair, Software Installation, Technical Support, System Maintenance, Troubleshooting
-- [ ] Configurar tarifas: $15-25/hora inicialmente
-- [ ] Subir certificados de trabajo (Telesistema 11)
+#### **📋 TAREAS REALISTAS (60 minutos):**
+- [ ] **15 min:** Investigar plataformas de freelancing (Upwork, Freelancer, Fiverr)
+- [ ] **15 min:** Revisar precios de servicios técnicos en Villa Mella
+- [ ] **15 min:** Crear lista de tareas para los próximos 7 días
+- [ ] **15 min:** Planificar horarios realistas para cada actividad
 
-**2. FREELANCER.COM (Prioridad Alta):**
-- [ ] Crear perfil en español e inglés
-- [ ] Configurar servicios: "Reparación de Computadoras", "Instalación de Software", "Soporte Técnico"
-- [ ] Establecer tarifas: $15-25/hora
-- [ ] Agregar portafolio básico
+#### **📝 LISTA DE TAREAS PARA LA SEMANA:**
+**MIÉRCOLES:** Crear perfil en Upwork (1 hora)
+**JUEVES:** Crear perfil en Freelancer.com (1 hora)
+**VIERNES:** Configurar WhatsApp Business (30 min)
+**SÁBADO:** Crear anuncio en Facebook (30 min)
+**DOMINGO:** Diseñar volante simple (1 hora)
 
-**3. FIVERR (Prioridad Media):**
-- [ ] Crear gigs específicos:
-  - "I will repair your computer remotely for $25"
-  - "I will install software and configure your system for $20"
-  - "I will provide technical support for $15/hour"
+### 🎯 HORA 2: PREPARACIÓN DE CONTENIDO (5:00 PM - 6:00 PM)
 
-#### **📝 TEMPLATES DE PROPUESTAS:**
-**Template 1 - Soporte Técnico:**
-```
-Hi [Client Name],
+#### **📝 TAREAS REALISTAS (60 minutos):**
+- [ ] **20 min:** Escribir bio profesional en español
+- [ ] **20 min:** Crear lista de servicios y precios
+- [ ] **20 min:** Preparar mensaje de WhatsApp Business
 
-I'm Jefry, an experienced IT Support Specialist with 2+ years of experience at Telesistema 11. I can help you with:
+#### **📄 CONTENIDO PREPARADO:**
+**Bio Profesional:**
+"Soy Jefry, especialista en soporte técnico con 2+ años de experiencia en Telesistema 11. Ofrezco servicios de reparación de computadoras, instalación de software y soporte técnico. Servicio a domicilio en Villa Mella y zonas aledañas."
 
-✅ Computer repair and troubleshooting
-✅ Software installation and configuration
-✅ System maintenance and optimization
-✅ Remote technical support
+**Lista de Servicios:**
+- Diagnóstico: $500
+- Instalación de software: $800-1,500
+- Reparación básica: $1,000-2,000
+- Mantenimiento preventivo: $1,500
 
-I'm available immediately and can start working on your project today. My rate is $20/hour, and I guarantee quality work with clear communication.
+**Mensaje WhatsApp:**
+"¡Hola! Soy Jefry, especialista en reparación de computadoras. ¿En qué puedo ayudarte hoy?"
 
-Best regards,
-Jefry
-```
+### 🎯 HORA 3: ORGANIZACIÓN BÁSICA (6:00 PM - 6:30 PM)
 
-**Template 2 - Reparación de Computadoras:**
-```
-Hello [Client Name],
+#### **📊 TAREAS REALISTAS (30 minutos):**
+- [ ] **15 min:** Crear carpeta en el teléfono: "Servicios_Tecnicos"
+- [ ] **15 min:** Crear lista de contactos para marketing local
 
-I specialize in computer repair and have extensive experience fixing hardware and software issues. I can help you with:
+#### **📱 ORGANIZACIÓN:**
+**Carpeta del teléfono:**
+- Fotos de trabajos realizados
+- Plantillas de mensajes
+- Lista de precios
+- Contactos de clientes
 
-🔧 Hardware diagnosis and repair
-🔧 Software installation and updates
-🔧 Virus removal and system cleanup
-🔧 Performance optimization
-
-I offer competitive rates ($25/hour) and provide detailed reports of all work performed. Available for both remote and on-site service.
-
-Let's discuss your specific needs!
-
-Jefry
-```
-
-### 🎯 HORA 2: ESTRATEGIA DE SERVICIOS TÉCNICOS LOCALES (5:00 PM - 6:00 PM)
-
-#### **📱 MARKETING DIGITAL:**
-**1. FACEBOOK MARKETPLACE:**
-- [ ] Crear anuncio: "Reparación de Computadoras en Villa Mella - Soporte Técnico Profesional"
-- [ ] Precio: $500 diagnóstico, $1,000-2,000 reparación
-- [ ] Descripción: "Especialista en reparación de computadoras con 2+ años de experiencia. Servicio a domicilio en Villa Mella y zonas aledañas. Diagnóstico gratuito. Garantía en todas las reparaciones."
-- [ ] Fotos: Antes y después de reparaciones (usar ejemplos)
-
-**2. WHATSAPP BUSINESS:**
-- [ ] Configurar número de WhatsApp Business
-- [ ] Crear catálogo de servicios:
-  - Diagnóstico: $500
-  - Instalación de software: $800-1,500
-  - Reparación básica: $1,000-2,000
-  - Mantenimiento preventivo: $1,500
-  - Configuración de sistemas: $2,000
-- [ ] Mensaje automático: "¡Hola! Soy Jefry, especialista en reparación de computadoras. ¿En qué puedo ayudarte hoy?"
-
-**3. GOOGLE MY BUSINESS:**
-- [ ] Crear perfil de negocio
-- [ ] Categoría: "Servicio de reparación de computadoras"
-- [ ] Horarios: Lunes a Viernes 8:00 PM - 9:00 PM, Sábados 8:00 AM - 12:00 PM
-- [ ] Descripción: "Servicio profesional de reparación de computadoras en Villa Mella. Especialista en hardware y software con 2+ años de experiencia."
-
-#### **🏠 MARKETING LOCAL:**
-**1. VOLANTES:**
-- [ ] Diseñar volante simple con:
-  - "REPARACIÓN DE COMPUTADORAS"
-  - "Especialista en Villa Mella"
-  - "Diagnóstico: $500"
-  - "WhatsApp: [tu número]"
-  - "Servicio a domicilio"
-- [ ] Imprimir 100 volantes
-- [ ] Distribuir en: Supermercados, farmacias, colmados de Villa Mella
-
-**2. CARTELES:**
-- [ ] Crear cartel pequeño para tiendas
-- [ ] "Reparación de Computadoras - Villa Mella"
-- [ ] Contacto: WhatsApp
-- [ ] Colocar en 5-10 tiendas locales
-
-### 🎯 HORA 3: SISTEMA DE SEGUIMIENTO Y ORGANIZACIÓN (6:00 PM - 6:30 PM)
-
-#### **📊 SISTEMA DE CLIENTES:**
-**1. REGISTRO DE CLIENTES:**
-- [ ] Crear hoja de Excel con columnas:
-  - Nombre, Teléfono, Email, Dirección, Tipo de servicio, Fecha, Precio, Estado
-- [ ] Crear carpeta en Google Drive: "Clientes_Servicios_Tecnicos"
-
-**2. SEGUIMIENTO DE PROYECTOS:**
-- [ ] Crear sistema de seguimiento para freelancing:
-  - Plataforma, Cliente, Proyecto, Estado, Fecha inicio, Fecha fin, Ingreso
-- [ ] Usar Google Sheets para tracking
-
-**3. MATERIAL PROMOCIONAL:**
-- [ ] Crear presentación simple de servicios
-- [ ] Diseñar tarjeta de presentación digital
-- [ ] Preparar ejemplos de trabajos realizados
+**Lista de contactos:**
+- 5 supermercados en Villa Mella
+- 3 farmacias locales
+- 2 colmados grandes
+- 1 universidad cercana
 
 ---
 
@@ -253,12 +187,12 @@ Jefry
 - **Personal:** 1 hora
 
 ### 🎯 PROGRESO
-- [ ] Plan de freelancing estructurado
-- [ ] Estrategia de servicios técnicos creada
-- [ ] Templates de propuestas preparados
-- [ ] Sistema de seguimiento establecido
-- [ ] Material promocional diseñado
-- [ ] Perfiles en plataformas configurados
+- [ ] Investigación de plataformas completada
+- [ ] Lista de servicios y precios creada
+- [ ] Contenido básico preparado
+- [ ] Carpeta de trabajo organizada
+- [ ] Lista de contactos locales creada
+- [ ] Plan semanal estructurado
 
 ---
 
@@ -327,13 +261,12 @@ Jefry
 - [ ] Tiempo personal (10:15 PM - 11:00 PM)
 - [ ] Estudio (11:00 PM - 12:00 AM)
 
-### 📋 TAREAS ESPECÍFICAS PARA MAÑANA:
-- [ ] Crear perfiles en Upwork y Freelancer.com
-- [ ] Configurar WhatsApp Business
-- [ ] Publicar anuncio en Facebook Marketplace
-- [ ] Aplicar a 5-10 trabajos de freelancing
-- [ ] Configurar Google My Business
-- [ ] Imprimir primeros volantes
+### 📋 TAREAS ESPECÍFICAS PARA MAÑANA (MIÉRCOLES):
+- [ ] **1 hora:** Crear perfil completo en Upwork
+- [ ] **30 min:** Configurar WhatsApp Business básico
+- [ ] **30 min:** Crear anuncio simple en Facebook Marketplace
+- [ ] **1 hora:** Aplicar a 3-5 trabajos de freelancing
+- [ ] **30 min:** Configurar Google My Business básico
 
 ---
 
