@@ -5,40 +5,41 @@
 
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** Consolidar rutinas y escalar freelancing  
-**Meta de Ingresos:** $32,200 (base) + $400 (Uber) + $1,000 (freelancing - segundo proyecto)  
+**Meta de Ingresos:** $1,282 (base) + $1,600 (Uber) + $1,000 (freelancing - segundo proyecto)  
 **Enfoque:** Trabajo principal + Uber + Freelancing + Desarrollo de habilidades
 
 ---
 
 ## ⏰ CRONOGRAMA DETALLADO
 
-### 🌅 MAÑANA (6:00 AM - 12:00 PM)
+### 🌅 MADRUGADA (4:00 AM - 6:00 AM)
 | Hora | Actividad | Duración | Estado | Notas |
 |------|-----------|----------|--------|-------|
-| 6:00 AM - 6:30 AM | Despertar y rutina matutina | 30 min | ⏰ | Ducha, vestirse, desayuno |
-| 6:30 AM - 7:00 AM | Tiempo personal/meditación | 30 min | ⏰ | Preparación mental para el día |
-| 7:00 AM - 8:00 AM | Estudio de programación | 1 hora | ⏰ | React.js básico - Lección 3 |
-| 8:00 AM - 9:00 AM | Estudio de inglés | 1 hora | ⏰ | Duolingo + vocabulario técnico |
-| 9:00 AM - 10:00 AM | Freelancing - Búsqueda | 1 hora | ⏰ | Buscar segundo proyecto |
-| 10:00 AM - 11:00 AM | Preparación para trabajo | 1 hora | ⏰ | Almuerzo y preparación |
-| 11:00 AM - 12:00 PM | Tiempo libre/descanso | 1 hora | ⏰ | Relajación antes del trabajo |
+| 4:00 AM - 4:30 AM | Despertar y preparar desayuno | 30 min | ⏰ | Preparar desayuno para la familia |
+| 4:30 AM - 5:00 AM | Desayuno familiar | 30 min | ⏰ | Desayunar con la esposa |
+| 5:00 AM - 5:30 AM | Preparación personal | 30 min | ⏰ | Ducha, vestirse |
+| 5:30 AM - 6:00 AM | Transporte al trabajo | 30 min | ⏰ | Viaje a Telesistema 11 |
 
-### 🌞 TARDE (12:00 PM - 6:00 PM)
+### 🌞 MAÑANA/TARDE (6:00 AM - 3:00 PM)
 | Hora | Actividad | Duración | Estado | Notas |
 |------|-----------|----------|--------|-------|
-| 12:00 PM - 1:00 PM | Transporte al trabajo | 1 hora | ⏰ | Viaje a Telesistema 11 |
-| 1:00 PM - 10:00 PM | **TRABAJO PRINCIPAL** | 9 horas | 💼 | Soporte técnico en Telesistema 11 |
-| 10:00 PM - 10:35 PM | Transporte a casa | 35 min | ⏰ | Viaje de regreso |
-| 10:35 PM - 11:00 PM | Descanso/Comida | 25 min | ⏰ | Cena ligera |
+| 6:00 AM - 3:00 PM | **TRABAJO PRINCIPAL** | 9 horas | 💼 | Soporte técnico en Telesistema 11 |
 
-### 🌙 NOCHE (11:00 PM - 6:00 AM)
+### 🌆 TARDE (3:00 PM - 8:00 PM)
 | Hora | Actividad | Duración | Estado | Notas |
 |------|-----------|----------|--------|-------|
-| 11:00 PM - 3:00 AM | **UBER** | 4 horas | 🚗 | Ingreso extra: ~$1,600/semana |
-| 3:00 AM - 3:15 AM | Transporte a casa | 15 min | ⏰ | Viaje de regreso |
-| 3:15 AM - 4:00 AM | **FREELANCING** | 45 min | 💻 | Segundo proyecto - $1,000 |
-| 4:00 AM - 5:00 AM | Tiempo personal/Cena | 1 hora | ⏰ | Cena y descanso |
-| 5:00 AM - 6:00 AM | Estudio inglés/Programación | 1 hora | ⏰ | Repaso y práctica |
+| 3:00 PM - 3:35 PM | Transporte a casa | 35 min | ⏰ | Viaje de regreso |
+| 3:35 PM - 4:00 PM | Descanso/Comida | 25 min | ⏰ | Cena ligera |
+| 4:00 PM - 8:00 PM | **UBER** | 4 horas | 🚗 | Ingreso extra: ~$1,600/semana |
+
+### 🌙 NOCHE (8:00 PM - 4:00 AM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 8:00 PM - 8:15 PM | Transporte a casa | 15 min | ⏰ | Viaje de regreso |
+| 8:15 PM - 9:15 PM | **FREELANCING** | 1 hora | 💻 | Segundo proyecto - $1,000 |
+| 9:15 PM - 10:00 PM | Tiempo personal/Cena | 45 min | ⏰ | Cena y descanso |
+| 10:00 PM - 11:00 PM | Estudio inglés/Programación | 1 hora | ⏰ | Repaso y práctica |
+| 11:00 PM - 4:00 AM | Descanso/Sueño | 5 horas | 😴 | Descanso para el día siguiente |
 
 ---
 
@@ -62,10 +63,10 @@
 - [ ] Optimizar procesos
 
 ### 💰 OBJETIVOS FINANCIEROS
-- [ ] Generar $28,200 (trabajo principal)
+- [ ] Generar $1,282 (trabajo principal)
 - [ ] Generar $1,600 (Uber)
 - [ ] Generar $1,000 (freelancing)
-- [ ] Total del día: $30,800
+- [ ] Total del día: $3,882
 
 ---
 
@@ -102,7 +103,7 @@
 - [ ] Buscar oportunidades de crecimiento
 
 ### 🚗 UBER (4 horas)
-**Horario:** 11:00 PM - 3:00 AM
+**Horario:** 4:00 PM - 8:00 PM
 **Objetivos:**
 - [ ] Completar 8-10 viajes
 - [ ] Generar $1,600/semana
@@ -111,8 +112,8 @@
 - [ ] Conocer nuevos clientes
 - [ ] Establecer rutas eficientes
 
-### 💻 FREELANCING (45 minutos)
-**Horario:** 3:15 AM - 4:00 AM
+### 💻 FREELANCING (1 hora)
+**Horario:** 8:15 PM - 9:15 PM
 **Objetivos:**
 - [ ] Completar segundo proyecto
 - [ ] Generar $1,000
@@ -126,9 +127,10 @@
 ## 🏠 ACTIVIDADES FAMILIARES
 
 ### 👨‍👩‍👧‍👦 TIEMPO FAMILIAR
-**Horario:** 4:00 AM - 5:00 AM
+**Horarios:** 4:30 AM - 5:00 AM (desayuno) + 9:15 PM - 10:00 PM (cena)
 **Actividades:**
-- [ ] Cena con la esposa
+- [ ] Desayuno con la esposa (4:30 AM - 5:00 AM)
+- [ ] Cena con la esposa (9:15 PM - 10:00 PM)
 - [ ] Conversación sobre el progreso
 - [ ] Planificación familiar
 - [ ] Tiempo de calidad
@@ -139,10 +141,10 @@
 ## 📊 MÉTRICAS DE SEGUIMIENTO
 
 ### 💰 INGRESOS DEL DÍA
-- **Trabajo principal:** $28,200
+- **Trabajo principal:** $1,282
 - **Uber:** $1,600
 - **Freelancing:** $1,000
-- **Total:** $30,800
+- **Total:** $3,882
 
 ### ⏰ TIEMPO INVERTIDO
 - **Trabajo:** 9 horas
