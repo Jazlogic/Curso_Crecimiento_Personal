@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Martes 02](Martes_02.md)
+- [Siguiente: Jueves 04 →](Jueves_04.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Estrategia intensiva para reparar luz del motor y hacer más horas de Uber  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $98 (Uber limitado) + $0 (freelancing)  

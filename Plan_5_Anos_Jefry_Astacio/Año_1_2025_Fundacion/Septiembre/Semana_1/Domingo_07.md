@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Sábado 06](Sabado_06.md)
+- [Siguiente: Lunes 08 →](../Semana_2/Lunes_08.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Día 5 de estrategia intensiva + IGLESIA  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $98 (Uber limitado) + $0 (freelancing)  

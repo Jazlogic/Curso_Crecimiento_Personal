@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Martes 09](Martes_09.md)
+- [Siguiente: Jueves 11 →](Jueves_11.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Día 8 + UBER INTENSIVO NOCTURNO  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $300 (Uber intensivo) + $0 (freelancing)  

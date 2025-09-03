@@ -1,5 +1,12 @@
 # 📅 MARTES 02 DE SEPTIEMBRE DE 2025
-## 🎯 DÍA 1 DEL PLAN - FUNDACIÓN
+## 🎯 DÍA DE PREPARACIÓN - FUNDACIÓN
+
+---
+
+## 🧭 NAVEGACIÓN
+- [← Anterior: README](../../README.md)
+- [Siguiente: Miércoles 03 →](Miercoles_03.md)
+- [📋 Volver al README](../../README.md)
 
 ---
 

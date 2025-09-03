@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Viernes 12](Viernes_12.md)
+- [Siguiente: Domingo 14 →](Domingo_14.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Día 11 + TRABAJO TARDE + UBER INTENSIVO  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $300 (Uber intensivo) + $0 (freelancing)  

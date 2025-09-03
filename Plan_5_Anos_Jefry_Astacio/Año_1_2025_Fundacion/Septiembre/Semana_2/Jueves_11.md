@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Miércoles 10](Miercoles_10.md)
+- [Siguiente: Viernes 12 →](Viernes_12.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Día 9 + UBER INTENSIVO NOCTURNO  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $300 (Uber intensivo) + $0 (freelancing)  

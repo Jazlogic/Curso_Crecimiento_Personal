@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Viernes 05](Viernes_05.md)
+- [Siguiente: Domingo 07 →](Domingo_07.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Día 4 de estrategia intensiva para reparar luz del motor  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $98 (Uber limitado) + $0 (freelancing)  

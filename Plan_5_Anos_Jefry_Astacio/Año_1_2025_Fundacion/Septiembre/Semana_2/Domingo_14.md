@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Sábado 13](Sabado_13.md)
+- [Siguiente: Lunes 15 →](../Semana_3/Lunes_15.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Día 12 + TRABAJO TARDE + IGLESIA  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $0 (Uber) + $0 (freelancing)  

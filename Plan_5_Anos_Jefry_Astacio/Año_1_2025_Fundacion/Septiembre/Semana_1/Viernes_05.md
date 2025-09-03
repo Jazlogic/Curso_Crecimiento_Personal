@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Jueves 04](Jueves_04.md)
+- [Siguiente: Sábado 06 →](Sabado_06.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Día 3 de estrategia intensiva para reparar luz del motor  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $98 (Uber limitado) + $0 (freelancing)  

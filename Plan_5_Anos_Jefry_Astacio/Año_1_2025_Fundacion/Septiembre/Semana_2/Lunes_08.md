@@ -3,6 +3,13 @@
 
 ---
 
+## 🧭 NAVEGACIÓN
+- [← Anterior: Domingo 07](../Semana_1/Domingo_07.md)
+- [Siguiente: Martes 09 →](Martes_09.md)
+- [📋 Volver al README](../../README.md)
+
+---
+
 ## 📋 RESUMEN DEL DÍA
 **Objetivo Principal:** PLAN FUNCIONAL - Día 6 + REPARAR LUZ DEL MOTOR  
 **Meta de Ingresos:** $0 (salario hasta el 15) + $50 (Uber limitado) + $0 (freelancing)  
