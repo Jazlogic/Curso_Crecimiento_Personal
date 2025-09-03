@@ -18,32 +18,41 @@
 - **Deuda Restante**: $15,500
 - **Progreso Deuda**: 38.1%
 
-## ⏰ HORARIO DETALLADO
+## ⏰ CRONOGRAMA DETALLADO
 
-### 4:00 AM - 3:00 PM: TIEMPO LIBRE
-- **4:00 AM**: Despertar y rutina personal
-- **5:00 AM**: Desayuno nutritivo
-- **6:00 AM**: Actividades de crecimiento personal
-- **8:00 AM**: Estudio programación (1 hora)
-- **9:00 AM**: Marketing digital (1 hora)
-- **10:00 AM**: Actividades freelancing (2 horas)
-- **12:00 PM**: Almuerzo
-- **1:00 PM**: Descanso y preparación
-- **2:00 PM**: Actividades de networking
-- **3:00 PM**: Preparación para el trabajo
+### 🌅 MADRUGADA (4:00 AM - 8:00 AM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 4:00 AM - 5:00 AM | Despertar y desayuno | 1 hora | ⏰ | Preparar desayuno nutritivo |
+| 5:00 AM - 6:00 AM | Actividades de crecimiento personal | 1 hora | 💪 | Ejercicio y meditación |
+| 6:00 AM - 7:00 AM | Preparación para el trabajo | 1 hora | ⏰ | Ducha, vestirse |
+| 7:00 AM - 8:00 AM | Transporte al trabajo | 1 hora | ⏰ | Viaje a Telesistema 11 |
 
-### 3:00 PM - 10:30 PM: TRABAJO TELESISTEMA (TURNO TARDE)
-- **3:00 PM**: Inicio del turno
-- **6:00 PM**: Descanso (15 min)
-- **10:30 PM**: Fin del turno
+### 🌞 MAÑANA (8:00 AM - 4:00 PM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 8:00 AM - 10:00 AM | **TRABAJO PRINCIPAL** | 2 horas | 💼 | Soporte técnico en Telesistema 11 |
+| 10:00 AM - 10:15 AM | Descanso | 15 min | ☕ | Pausa para café |
+| 10:15 AM - 12:00 PM | **TRABAJO PRINCIPAL** | 1h 45min | 💼 | Continuar soporte técnico |
+| 12:00 PM - 12:30 PM | Almuerzo | 30 min | 🍽️ | Almuerzo en el trabajo |
+| 12:30 PM - 2:00 PM | **TRABAJO PRINCIPAL** | 1h 30min | 💼 | Continuar soporte técnico |
+| 2:00 PM - 2:15 PM | Descanso | 15 min | ☕ | Pausa para café |
+| 2:15 PM - 4:00 PM | **TRABAJO PRINCIPAL** | 1h 45min | 💼 | Finalizar turno |
 
-### 10:30 PM - 11:30 PM: ACTIVIDADES DE CRECIMIENTO
-- **10:30 PM**: Estudio programación (30 min)
-- **11:00 PM**: Marketing digital (30 min)
+### 🌆 TARDE (4:00 PM - 7:00 PM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 4:00 PM - 4:30 PM | Transporte a la iglesia | 30 min | ⏰ | Viaje a la iglesia |
+| 4:30 PM - 7:00 PM | **IGLESIA** | 2h 30min | ⛪ | Servicio religioso dominical |
 
-### 11:30 PM - 4:00 AM: DESCANSO
-- **11:30 PM**: Cena ligera
-- **12:00 AM**: Descanso y sueño
+### 🌙 NOCHE (7:00 PM - 4:00 AM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 7:00 PM - 7:30 PM | Transporte a casa | 30 min | ⏰ | Viaje de regreso |
+| 7:30 PM - 8:00 PM | Cena | 30 min | 🍽️ | Cena en casa |
+| 8:00 PM - 8:30 PM | **ESTUDIO PROGRAMACIÓN** | 30 min | 💻 | Proyectos prácticos JavaScript |
+| 8:30 PM - 9:00 PM | **MARKETING DIGITAL** | 30 min | 📱 | Creación de contenido SEO |
+| 9:00 PM - 4:00 AM | Descanso/Sueño | 7 horas | 😴 | Descanso para el día siguiente |
 
 ## 🎯 OBJETIVOS DEL DÍA
 - [x] Completar turno Telesistema (tarde)

@@ -18,39 +18,41 @@
 - **Deuda Restante**: $15,500
 - **Progreso Deuda**: 38.1%
 
-## ⏰ HORARIO DETALLADO
+## ⏰ CRONOGRAMA DETALLADO
 
-### 4:00 AM - 6:00 AM: PREPARACIÓN MATUTINA
-- **4:00 AM**: Despertar y rutina personal
-- **4:30 AM**: Preparación del desayuno
-- **5:00 AM**: Desayuno nutritivo
-- **5:30 AM**: Preparación para el trabajo
+### 🌅 MADRUGADA (4:00 AM - 6:00 AM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 4:00 AM - 4:30 AM | Despertar y preparar desayuno | 30 min | ⏰ | Preparar desayuno nutritivo |
+| 4:30 AM - 5:00 AM | Desayuno familiar | 30 min | ⏰ | Desayunar con la esposa |
+| 5:00 AM - 5:30 AM | Preparación personal | 30 min | ⏰ | Ducha, vestirse, preparar lonchera |
+| 5:30 AM - 6:00 AM | Transporte al trabajo | 30 min | ⏰ | Viaje a Telesistema 11 |
 
-### 6:00 AM - 3:00 PM: TRABAJO TELESISTEMA
-- **6:00 AM**: Inicio del turno
-- **9:00 AM**: Descanso (15 min)
-- **12:00 PM**: Almuerzo (30 min)
-- **3:00 PM**: Fin del turno
+### 🌞 MAÑANA/TARDE (6:00 AM - 3:00 PM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 6:00 AM - 9:00 AM | **TRABAJO PRINCIPAL** | 3 horas | 💼 | Soporte técnico en Telesistema 11 |
+| 9:00 AM - 9:15 AM | Descanso | 15 min | ☕ | Pausa para café |
+| 9:15 AM - 12:00 PM | **TRABAJO PRINCIPAL** | 2h 45min | 💼 | Continuar soporte técnico |
+| 12:00 PM - 12:30 PM | Almuerzo | 30 min | 🍽️ | Almuerzo en el trabajo |
+| 12:30 PM - 3:00 PM | **TRABAJO PRINCIPAL** | 2h 30min | 💼 | Finalizar turno |
 
-### 3:00 PM - 4:00 PM: TRANSICIÓN Y ALMUERZO
-- **3:00 PM**: Transporte a casa
-- **3:30 PM**: Almuerzo y descanso
-- **4:00 PM**: Preparación para Uber
+### 🌆 TARDE (3:00 PM - 10:00 PM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 3:00 PM - 3:30 PM | Transporte a casa | 30 min | ⏰ | Viaje de regreso |
+| 3:30 PM - 4:00 PM | Almuerzo y descanso | 30 min | 🍽️ | Almuerzo en casa |
+| 4:00 PM - 6:00 PM | **UBER INTENSIVO** | 2 horas | 🚗 | Zona Centro (oficinas saliendo) |
+| 6:00 PM - 8:00 PM | **UBER INTENSIVO** | 2 horas | 🚗 | Zona Universitaria (estudiantes) |
+| 8:00 PM - 10:00 PM | **UBER INTENSIVO** | 2 horas | 🚗 | Zona Comercial (shopping, restaurantes) |
 
-### 4:00 PM - 10:00 PM: UBER INTENSIVO
-- **4:00 PM**: Inicio Uber (6 horas)
-- **10:00 PM**: Fin Uber
-- **Ingresos Uber**: $300
-- **Gasolina**: $150
-- **Neto Uber**: $150
-
-### 10:00 PM - 11:00 PM: ACTIVIDADES DE CRECIMIENTO
-- **10:00 PM**: Estudio programación (30 min)
-- **10:30 PM**: Marketing digital (30 min)
-
-### 11:00 PM - 4:00 AM: DESCANSO
-- **11:00 PM**: Cena ligera
-- **11:30 PM**: Descanso y sueño
+### 🌙 NOCHE (10:00 PM - 4:00 AM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 10:00 PM - 10:30 PM | **ESTUDIO PROGRAMACIÓN** | 30 min | 💻 | Eventos y listeners en JavaScript |
+| 10:30 PM - 11:00 PM | **MARKETING DIGITAL** | 30 min | 📱 | Optimización de perfiles SEO |
+| 11:00 PM - 11:30 PM | Cena ligera | 30 min | 🍽️ | Cena y preparación para dormir |
+| 11:30 PM - 4:00 AM | Descanso/Sueño | 4h 30min | 😴 | Descanso para el día siguiente |
 
 ## 🎯 OBJETIVOS DEL DÍA
 - [x] Completar turno Telesistema

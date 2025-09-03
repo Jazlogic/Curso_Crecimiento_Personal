@@ -18,34 +18,44 @@
 - **Deuda Restante**: $15,500
 - **Progreso Deuda**: 38.1%
 
-## ⏰ HORARIO DETALLADO
+## ⏰ CRONOGRAMA DETALLADO
 
-### 4:00 AM - 6:00 PM: TIEMPO LIBRE
-- **4:00 AM**: Despertar y rutina personal
-- **5:00 AM**: Desayuno nutritivo
-- **6:00 AM**: Actividades de crecimiento personal
-- **8:00 AM**: Estudio programación (1 hora)
-- **9:00 AM**: Marketing digital (1 hora)
-- **10:00 AM**: Actividades freelancing (2 horas)
-- **12:00 PM**: Almuerzo
-- **1:00 PM**: Descanso y preparación
-- **2:00 PM**: Actividades de networking
-- **3:00 PM**: Preparación para el trabajo
-- **4:00 PM**: Transporte al trabajo
-- **5:00 PM**: Preparación final
+### 🌅 MADRUGADA (4:00 AM - 8:00 AM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 4:00 AM - 5:00 AM | Despertar y desayuno | 1 hora | ⏰ | Preparar desayuno nutritivo |
+| 5:00 AM - 6:00 AM | Actividades de crecimiento personal | 1 hora | 💪 | Ejercicio y meditación |
+| 6:00 AM - 7:00 AM | Preparación para el trabajo | 1 hora | ⏰ | Ducha, vestirse |
+| 7:00 AM - 8:00 AM | Transporte al trabajo | 1 hora | ⏰ | Viaje a Telesistema 11 |
 
-### 6:00 PM - 10:30 PM: TRABAJO TELESISTEMA (TURNO TARDE)
-- **6:00 PM**: Inicio del turno
-- **8:00 PM**: Descanso (15 min)
-- **10:30 PM**: Fin del turno
+### 🌞 MAÑANA (8:00 AM - 12:00 PM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 8:00 AM - 10:00 AM | **TRABAJO PRINCIPAL** | 2 horas | 💼 | Soporte técnico en Telesistema 11 |
+| 10:00 AM - 10:15 AM | Descanso | 15 min | ☕ | Pausa para café |
+| 10:15 AM - 12:00 PM | **TRABAJO PRINCIPAL** | 1h 45min | 💼 | Continuar soporte técnico |
 
-### 10:30 PM - 11:30 PM: ACTIVIDADES DE CRECIMIENTO
-- **10:30 PM**: Estudio programación (30 min)
-- **11:00 PM**: Marketing digital (30 min)
+### 🌆 TARDE (12:00 PM - 6:00 PM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 12:00 PM - 12:30 PM | Transporte a casa | 30 min | ⏰ | Viaje de regreso |
+| 12:30 PM - 1:00 PM | Almuerzo | 30 min | 🍽️ | Almuerzo en casa |
+| 1:00 PM - 2:00 PM | Descanso y preparación | 1 hora | ⏰ | Descanso personal |
+| 2:00 PM - 3:00 PM | Actividades de networking | 1 hora | 🤝 | Contactar clientes potenciales |
+| 3:00 PM - 4:00 PM | Preparación para el trabajo | 1 hora | ⏰ | Preparar para turno tarde |
+| 4:00 PM - 5:00 PM | Transporte al trabajo | 1 hora | ⏰ | Viaje a Telesistema 11 |
+| 5:00 PM - 6:00 PM | Preparación final | 1 hora | ⏰ | Preparación para turno tarde |
 
-### 11:30 PM - 4:00 AM: DESCANSO
-- **11:30 PM**: Cena ligera
-- **12:00 AM**: Descanso y sueño
+### 🌙 NOCHE (6:00 PM - 4:00 AM)
+| Hora | Actividad | Duración | Estado | Notas |
+|------|-----------|----------|--------|-------|
+| 6:00 PM - 8:00 PM | **TRABAJO PRINCIPAL** | 2 horas | 💼 | Soporte técnico en Telesistema 11 |
+| 8:00 PM - 8:15 PM | Descanso | 15 min | ☕ | Pausa para café |
+| 8:15 PM - 10:30 PM | **TRABAJO PRINCIPAL** | 2h 15min | 💼 | Finalizar turno tarde |
+| 10:30 PM - 11:00 PM | **ESTUDIO PROGRAMACIÓN** | 30 min | 💻 | Proyectos prácticos JavaScript |
+| 11:00 PM - 11:30 PM | **MARKETING DIGITAL** | 30 min | 📱 | Creación de contenido SEO |
+| 11:30 PM - 12:00 AM | Cena ligera | 30 min | 🍽️ | Cena y preparación para dormir |
+| 12:00 AM - 4:00 AM | Descanso/Sueño | 4 horas | 😴 | Descanso para el día siguiente |
 
 ## 🎯 OBJETIVOS DEL DÍA
 - [x] Completar turno Telesistema (tarde)
