@@ -219,3 +219,5 @@
 - ✅ Mantenida rutina de estudio
 - ✅ Asistencia a la iglesia
 - ✅ Progreso en ahorros para luz del motor
+- ✅ Aprovechado fin de semana libre para más horas de Uber
+- ✅ 97.2% del dinero para reparar luz del motor
