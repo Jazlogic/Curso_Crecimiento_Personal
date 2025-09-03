@@ -4,9 +4,9 @@
 ---
 
 ## 📋 RESUMEN DEL DÍA
-**Objetivo Principal:** Comenzar el plan de salida de la pobreza y establecer rutinas  
-**Meta de Ingresos:** $1,282 (base) + $1,600 (Uber) + $1,000 (freelancing)  
-**Enfoque:** Trabajo principal + Uber + Freelancing + Desarrollo de habilidades
+**Objetivo Principal:** PLAN FUNCIONAL - Estrategia intensiva para reparar luz del motor y hacer más horas de Uber  
+**Meta de Ingresos:** $0 (salario hasta el 15) + $98 (Uber limitado) + $0 (freelancing)  
+**Enfoque:** Uber limitado + Ahorro para luz del motor + Trabajo principal
 
 ---
 
@@ -29,17 +29,38 @@
 | Hora | Actividad | Duración | Estado | Notas |
 |------|-----------|----------|--------|-------|
 | 3:00 PM - 3:35 PM | Transporte a casa | 35 min | ⏰ | Viaje de regreso |
-| 3:35 PM - 4:00 PM | Descanso/Comida | 25 min | ⏰ | Cena ligera |
-| 4:00 PM - 8:00 PM | **UBER** | 4 horas | 🚗 | Ingreso extra: ~$1,600/semana |
+| 3:35 PM - 4:35 PM | **CONFIGURACIÓN BÁSICA** | 1 hora | 💻 | Perfiles básicos |
+| 4:35 PM - 6:30 PM | **UBER LIMITADO** | 1 hora 55 min | 🚗 | Solo horas de luz - Meta: $195 bruto |
 
-### 🌙 NOCHE (8:00 PM - 4:00 AM)
+### 🌙 NOCHE (6:30 PM - 4:00 AM)
 | Hora | Actividad | Duración | Estado | Notas |
 |------|-----------|----------|--------|-------|
-| 8:00 PM - 8:15 PM | Transporte a casa | 15 min | ⏰ | Viaje de regreso |
-| 8:15 PM - 9:15 PM | **FREELANCING** | 1 hora | 💻 | Primer proyecto - $500 |
-| 9:15 PM - 10:00 PM | Tiempo personal/Cena | 45 min | ⏰ | Cena y descanso |
-| 10:00 PM - 11:00 PM | Estudio inglés/Programación | 1 hora | ⏰ | Repaso y práctica |
-| 11:00 PM - 4:00 AM | Descanso/Sueño | 5 horas | 😴 | Descanso para el día siguiente |
+| 6:30 PM - 7:00 PM | Transporte a casa | 30 min | ⏰ | Viaje de regreso |
+| 7:00 PM - 8:00 PM | Tiempo personal/Cena | 1 hora | ⏰ | Cena y descanso |
+| 8:00 PM - 9:00 PM | Estudio inglés/Programación | 1 hora | ⏰ | Repaso y práctica |
+| 9:00 PM - 4:00 AM | Descanso/Sueño | 7 horas | 😴 | Descanso para el día siguiente |
+
+---
+
+## 🚀 PLAN FUNCIONAL IMPLEMENTADO
+
+### **💰 ESTRATEGIA INTENSIVA - DÍA 1:**
+- **Uber:** 1 hora 55 min (4:35 PM - 6:30 PM) = $195 bruto
+- **Gasolina:** $97
+- **Neto:** $98
+- **Ahorro para luz del motor:** $98
+- **Total ahorrado:** $98
+
+### **🎯 OBJETIVOS DEL DÍA:**
+1. **Configurar perfiles básicos** (Upwork, WhatsApp Business, Facebook)
+2. **Hacer Uber por 1 hora 55 min** (solo horas de luz)
+3. **Ahorrar $98** para luz del motor
+4. **Mantener rutina de estudio**
+
+### **📊 PROGRESO DEL PLAN:**
+- **Día 1/7:** Ahorro para luz del motor
+- **Meta:** $686 en 7 días para reparar luz del motor
+- **Resultado esperado:** 6 horas de Uber diarias después del día 7
 
 ---
 
@@ -47,11 +68,11 @@
 
 ### ✅ TAREAS OBLIGATORIAS
 - [ ] Completar 9 horas de trabajo en Telesistema 11
-- [ ] Hacer 4 horas de Uber
-- [ ] Completar primer proyecto de freelancing
-- [ ] Estudiar 1 hora de React.js
+- [ ] Hacer 1 hora 55 min de Uber (4:35 PM - 6:30 PM)
+- [ ] Configurar perfiles básicos (Upwork, WhatsApp Business, Facebook)
+- [ ] Estudiar 1 hora de programación
 - [ ] Estudiar 1 hora de inglés
-- [ ] Optimizar perfiles de freelancing
+- [ ] Ahorrar $98 para luz del motor
 
 ### 🚀 TAREAS DE DESARROLLO
 - [ ] Completar perfil en Upwork
